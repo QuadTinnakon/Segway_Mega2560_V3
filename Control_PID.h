@@ -44,5 +44,3 @@ void Control_PIDRate(){
   u_yaw = constrain(u_yaw, -100, 100);//+-100
 //////////////////////////////////////////////////////////////////////////////////////////////////  
 }
-
-![](https://user-images.githubusercontent.com/9403558/36770109-e5ec3c84-1c7a-11e8-9d68-48ae0f53ca2f.jpg)
