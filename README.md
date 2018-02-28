@@ -49,3 +49,10 @@ int IN4B_PIN = 25;
 
 ![](https://user-images.githubusercontent.com/9403558/36770003-5f928d78-1c7a-11e8-9dbb-e36a8b4b07cc.jpg)
 
+![](https://user-images.githubusercontent.com/9403558/36770028-87413ea0-1c7a-11e8-809b-7407eeb07922.jpg)
+
+![](https://user-images.githubusercontent.com/9403558/36770043-9b54bbba-1c7a-11e8-83ea-636520f37670.jpg)
+
+![](https://user-images.githubusercontent.com/9403558/36770109-e5ec3c84-1c7a-11e8-9d68-48ae0f53ca2f.jpg)
+
+
